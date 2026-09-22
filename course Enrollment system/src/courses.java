@@ -1,7 +1,7 @@
 public class courses {
     String cname;
     int sumofstudents;
-    int numofattendend;
+    int numberofattendend;
 
-    static string universityname= IUEA;
+    static String universityname= IUEA;
 }
