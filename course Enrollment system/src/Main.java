@@ -14,7 +14,7 @@ public class Main {
         courses4.course();
         double averageattendance=courses1.numberofattendend+courses2.numberofattendend+courses3.numberofattendend+courses4.numberofattendend/4;
         System.out.println("averageattendance is " + averageattendance);
-        System.out.println("totalourses = " + courses1);
+        
 
 
 
