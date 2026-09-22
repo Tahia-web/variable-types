@@ -3,7 +3,7 @@ public class courses {
     int sumofstudents;
     int numberofattendend;
 
-    static String universityname= IUEA;
+    static int totalcourses=4 ;
     public courses( String n, int s,int a){
      cname=n;
      sumofstudents=s;
@@ -13,7 +13,9 @@ public class courses {
         System.out.println("the sumofstudents is " + sumofstudents);
         System.out.println(" the number of students that attended is " + numberofattendend);
     }
-
+    public static void display(){
+        System.out.println("totalcourses " + totalcourses);
+    }
 
 
 }
