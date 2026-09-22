@@ -13,7 +13,7 @@ public class courses {
         System.out.println("the sumofstudents is " + sumofstudents);
         System.out.println(" the number of students that attended is " + numberofattendend);
     }
-    public static void display(){
+    public static void total(){
         System.out.println("totalcourses " + totalcourses);
     }
 
