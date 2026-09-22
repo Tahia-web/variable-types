@@ -8,6 +8,11 @@ public class courses {
      cname=n;
      sumofstudents=s;
      numberofattendend=a;}
+    public void course(){
+        System.out.println("the course name is" + cname);
+        System.out.println("the sumofstudents is " + sumofstudents);
+        System.out.println(" the number of students who attended is " + numberofattendend);
+    }
 
 
 
